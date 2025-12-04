@@ -8,7 +8,8 @@
 
 Reverse Engineering • Programming • Patching • Game Improvements • DLL Creation
 
-[![Downloads](https://img.shields.io/github/downloads/Chip-Biscuit/Legendary-PC-FPS-Fix/total?label=Total%20Downloads)](https://github.com/Chip-Biscuit/Legendary-PC-FPS-Fix/releases/tag/madagascar-resolution-fix)
+[![Downloads](https://img.shields.io/github/downloads/Chip-Biscuit/Legendary-PC-FPS-Fix/total?label=Total%20Downloads)](https://github.com/Chip-Biscuit/Legendary-PC-FPS-Fix/releases/tag/legendary)
+
 
 <sub>click the Total Downloads button above to take you to the releases page and download the zip at the bottom</sub>
 
