@@ -17,7 +17,7 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 
 # Legendary FPS PC Fix
 
-This fix adds an FPS toggle system from DefaultFPS to HotkeyFPS these can be defined in d3d9.ini the default it game starting at 60fps then you can toggle to 30fps (to fix broken areas at high fps), Windowed modes (window will go to the resolution set in game) and Custom X-Input (turned off by default as the game has native controller support)
+This fix adds an FPS toggle system from DefaultFPS to HotkeyFPS these can be defined in d3d9.ini the default it game starting at 60fps then you can toggle to 30fps (to fix broken areas at high fps), Windowed modes (window will go to the resolution set in game)
 
 ![ezgif-823404f492a4d491](https://github.com/user-attachments/assets/f6a0f85e-357f-43ef-ba89-3b0267bc2ceb)
 
