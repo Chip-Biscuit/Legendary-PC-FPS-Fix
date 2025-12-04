@@ -23,12 +23,12 @@ This fix adds an FPS toggle system from DefaultFPS to HotkeyFPS these can be def
 
 # Instructions
 
-Download the fix and place the contents d3d9.dll, d3d9.ini and [hotkey]keycodes.txt files into the Legendary main directory (where the exe is located).
-If using steam then go to the game in your library right click the game in the game list -> Manage -> Browse Local Files -> Binaries. That is where the Exe for the game is located.
-You can edit the settings you want in the d3d9.ini file. To edit the FPS hotkey you wish to use for the toggle find the keycode from inside the [hotkey]keycodes.txt file and then paste this into the d3d9.ini file for the hotkey option.
-FPS will start at 60 and you can toggle between that and 30 using the hotkey in the d3d9.ini that you specify default is F11.
-You can define your own FPS values in d3d9.ini so you could go between 80 and 30 or 100 and 30 or 60 and 40 whatever you want, DefaultFPS - the game will start at this value unless you press the hotkey then it will toggle to HotkeyFPS. Then you can toggle between the two using the hotkey you assign in d3d9.ini.
-Window mode can be toggled in d3d9.ini using the ForceWindowedMode entry, window will go to the size of the resolution in the game.
+- Go to the releases page Download the fix and place the contents d3d9.dll, d3d9.ini and [hotkey]keycodes.txt files into the Legendary main directory (where the exe is located).
+- If using steam then go to the game in your library right click the game in the game list -> Manage -> Browse Local Files -> Binaries. That is where the Exe for the game is located.
+- You can edit the settings you want in the d3d9.ini file. To edit the FPS hotkey you wish to use for the toggle find the keycode from inside the [hotkey]keycodes.txt file and then paste this into the d3d9.ini file for the hotkey option.
+- FPS will start at 60 and you can toggle between that and 30 using the hotkey in the d3d9.ini that you specify default is F11.
+- You can define your own FPS values in d3d9.ini so you could go between 80 and 30 or 100 and 30 or 60 and 40 whatever you want, DefaultFPS - the game will start at this value unless you press the hotkey then it will toggle to HotkeyFPS. Then you can toggle between the two using the hotkey you assign in d3d9.ini.
+- Window mode can be toggled in d3d9.ini using the ForceWindowedMode entry, window will go to the size of the resolution in the game.
  
 
 # Vote to see the game return via GOG Dream list
