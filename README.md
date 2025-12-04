@@ -8,6 +8,7 @@
 
 Reverse Engineering • Programming • Patching • Game Improvements • DLL Creation
 
+[![Downloads](https://img.shields.io/github-downloads/Chip-Biscuit/Legendary-PC-FPS-Fix/total)](https://github.com/Chip-Biscuit/Legendary-PC-FPS-Fix/releases/tag/legendary)
 
 
 </div>
