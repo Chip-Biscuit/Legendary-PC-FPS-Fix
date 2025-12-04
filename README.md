@@ -16,16 +16,17 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 
 # Legendary FPS PC Fix
 
-This fix adds an FPS toggle system from uncapped fps (the original game FPS) down to 60fps (to fix broken areas at high fps), Windowed modes (window will go to the resolution set in game) and Custom X-Input (turned off by default as the game has native controller support)
+This fix adds an FPS toggle system from DefaultFPS to HotkeyFPS these can be defined in d3d9.ini the default it game starting at 60fps then you can toggle to 30fps (to fix broken areas at high fps), Windowed modes (window will go to the resolution set in game) and Custom X-Input (turned off by default as the game has native controller support)
 
- 
+![ezgif-823404f492a4d491](https://github.com/user-attachments/assets/f6a0f85e-357f-43ef-ba89-3b0267bc2ceb)
 
 # Instructions
 
 Download the fix and place the contents d3d9.dll, d3d9.ini and [hotkey]keycodes.txt files into the Legendary main directory (where the exe is located).
 If using steam then go to the game in your library right click the game in the game list -> Manage -> Browse Local Files -> Binaries. That is where the Exe for the game is located.
 You can edit the settings you want in the d3d9.ini file. To edit the FPS hotkey you wish to use for the toggle find the keycode from inside the [hotkey]keycodes.txt file and then paste this into the d3d9.ini file for the hotkey option.
-FPS will start at 60 and you can toggle between that and uncapped using the hotkey in the d3d9.ini that you specify default is F11.
+FPS will start at 60 and you can toggle between that and 30 using the hotkey in the d3d9.ini that you specify default is F11.
+You can define your own FPS values in d3d9.ini so you could go between 80 and 30 or 100 and 30 or 60 and 40 whatever you want, DefaultFPS - the game will start at this value unless you press the hotkey then it will toggle to HotkeyFPS. Then you can toggle between the two using the hotkey you assign in d3d9.ini.
 Window mode can be toggled in d3d9.ini using the ForceWindowedMode entry, window will go to the size of the resolution in the game.
  
 
